@@ -8,18 +8,18 @@ final mockConnectionStatsList = [
     downloadSpeed: 220,
     uploadSpeed: 30,
     connectedTime: Duration.zero,
-    connectedCountry: mockCountries[0], // Italy
+    connectedCountry: mockCountries[0],
   ),
   ConnectionStats(
     downloadSpeed: 527,
     uploadSpeed: 49,
     connectedTime: Duration.zero,
-    connectedCountry: mockCountries[1], // Netherlands
+    connectedCountry: mockCountries[1],
   ),
   ConnectionStats(
     downloadSpeed: 430,
     uploadSpeed: 60,
     connectedTime: Duration.zero,
-    connectedCountry: mockCountries[2], // Germany
+    connectedCountry: mockCountries[2],
   ),
 ];
